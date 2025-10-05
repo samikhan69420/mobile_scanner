@@ -1,3 +1,7 @@
+---
+This fork allows the mobile scanner package to run on macos 12.
+---
+
 # mobile_scanner
 
 [![Pub Version](https://img.shields.io/pub/v/mobile_scanner.svg)](https://pub.dev/packages/mobile_scanner)
